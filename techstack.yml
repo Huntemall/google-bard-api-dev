@@ -1,0 +1,144 @@
+repo_name: Huntemall/google-bard-api-dev
+report_id: 3baa70bf65956c22c6fb2a9d643922de
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-16T09:54:45+00:00'
+requested_by: ra83205
+provider: github
+branch: master
+detected_tools_count: 11
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Huntemall/google-bard-api-dev
+  detection_source: Repo Metadata
+- name: FastAPI
+  description: A high performance, easy to learn, fast to code, ready for production
+    web framework
+  website_url: https://fastapi.tiangolo.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/25014/default_f6ff39141b468e832d1bc59fc98a060df604d44d.png
+  detection_source_url: https://github.com/Huntemall/google-bard-api-dev/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: FIRST_NAME LAST_NAME
+  last_updated_on: 2023-04-01 06:41:32.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Huntemall/google-bard-api-dev
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Huntemall/google-bard-api-dev
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Huntemall/google-bard-api-dev/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: FIRST_NAME LAST_NAME
+  last_updated_on: 2023-04-01 06:41:32.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Huntemall/google-bard-api-dev
+  detection_source: Repo Metadata
+- name: prompt_toolkit
+  description: Library for building powerful interactive command lines in Python
+  package_url: https://pypi.org/project/prompt_toolkit
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19973/default_7bdb5665dee17d53e3a12b8e2b533bcdb6f55a47.png
+  detection_source_url: https://github.com/Huntemall/google-bard-api-dev/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: FIRST_NAME LAST_NAME
+  last_updated_on: 2023-04-01 06:41:32.000000000 Z
+- name: pydantic
+  description: Data validation and settings management using python 3.6 type hinting
+  package_url: https://pypi.org/project/pydantic
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20022/default_b0d1a54f127d7017fce41c15f5e85568fb7019ed.png
+  detection_source_url: https://github.com/Huntemall/google-bard-api-dev/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: FIRST_NAME LAST_NAME
+  last_updated_on: 2023-04-01 06:41:32.000000000 Z
+- name: python-dotenv
+  description: Add .env support to your django/flask apps in development and deployments
+  package_url: https://pypi.org/project/python-dotenv
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20095/default_3141eabecdd8efa55de73a33c43f2ac0d5bbf954.png
+  detection_source_url: https://github.com/Huntemall/google-bard-api-dev/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Slava Rozhnev
+  last_updated_on: 2023-04-22 12:29:56.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/Huntemall/google-bard-api-dev/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: FIRST_NAME LAST_NAME
+  last_updated_on: 2023-04-01 06:41:32.000000000 Z
+- name: uvicorn
+  description: The lightning-fast ASGI server
+  package_url: https://pypi.org/project/uvicorn
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20431/default_f824837db22536768ec317b67275fa384fad7d47.png
+  detection_source_url: https://github.com/Huntemall/google-bard-api-dev/blob/master/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: FIRST_NAME LAST_NAME
+  last_updated_on: 2023-04-01 06:41:32.000000000 Z
